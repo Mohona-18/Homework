@@ -1,1 +1,3 @@
 Trail File - push/publish the file to Github 
+
+Push in terms means: Sending the file from local to the Github
